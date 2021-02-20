@@ -10,6 +10,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/jason/proprietary/vendor/firmware/jason_bu63169_ofilm.prog:$(TARGET_COPY_OUT_VENDOR)/firmware/jason_bu63169_ofilm.prog \
     vendor/xiaomi/jason/proprietary/vendor/firmware/jason_bu63169_semco.coeff:$(TARGET_COPY_OUT_VENDOR)/firmware/jason_bu63169_semco.coeff \
     vendor/xiaomi/jason/proprietary/vendor/firmware/jason_bu63169_semco.prog:$(TARGET_COPY_OUT_VENDOR)/firmware/jason_bu63169_semco.prog \
+    vendor/xiaomi/jason/proprietary/vendor/lib64/libpowermanager-v28.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpowermanager-v28.so \
     vendor/xiaomi/jason/proprietary/vendor/bin/cnss-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/cnss-daemon \
     vendor/xiaomi/jason/proprietary/vendor/bin/remosaic_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/remosaic_daemon \
     vendor/xiaomi/jason/proprietary/vendor/bin/sensors.qti:$(TARGET_COPY_OUT_VENDOR)/bin/sensors.qti \
